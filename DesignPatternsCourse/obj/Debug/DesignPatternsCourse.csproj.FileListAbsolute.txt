@@ -1,0 +1,7 @@
+D:\C# projects\DesignPatternsCourse\DesignPatternsCourse\obj\Debug\DesignPatternsCourse.csprojAssemblyReference.cache
+D:\C# projects\DesignPatternsCourse\DesignPatternsCourse\obj\Debug\DesignPatternsCourse.csproj.CoreCompileInputs.cache
+D:\C# projects\DesignPatternsCourse\DesignPatternsCourse\bin\Debug\DesignPatternsCourse.exe.config
+D:\C# projects\DesignPatternsCourse\DesignPatternsCourse\bin\Debug\DesignPatternsCourse.exe
+D:\C# projects\DesignPatternsCourse\DesignPatternsCourse\bin\Debug\DesignPatternsCourse.pdb
+D:\C# projects\DesignPatternsCourse\DesignPatternsCourse\obj\Debug\DesignPatternsCourse.exe
+D:\C# projects\DesignPatternsCourse\DesignPatternsCourse\obj\Debug\DesignPatternsCourse.pdb
